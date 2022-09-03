@@ -1,7 +1,7 @@
 {
   "name": "easy-note-switch",
   "main": "./lib/switch-note",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Quickly and easily switch notes.",
   "keywords": [],
   "repository": "https://github.com/coderaven/inkdrop-easy-note-switch",

@@ -2,7 +2,7 @@
   "context-menu": {
     ".CodeMirror": [
       {
-        "label": "Toggle switch-note",
+        "label": "Toggle easy-note-switch",
         "command": "switch-note:open"
       }
     ]
@@ -12,7 +12,7 @@
       "label": "Plugins",
       "submenu": [
         {
-          "label": "switch-note",
+          "label": "easy-note-switch",
           "submenu": [
             {
               "label": "Toggle",

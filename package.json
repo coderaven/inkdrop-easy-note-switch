@@ -1,10 +1,10 @@
 {
-  "name": "switch-note",
+  "name": "easy-note-switch",
   "main": "./lib/switch-note",
   "version": "0.0.0",
-  "description": "Quickly and easily switch note. Revised version of older plugin.",
+  "description": "Quickly and easily switch notes.",
   "keywords": [],
-  "repository": "https://github.com/inkdropapp/switch-note",
+  "repository": "https://github.com/coderaven/inkdrop-easy-note-switch",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.3.1"

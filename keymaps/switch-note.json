@@ -1,5 +1,6 @@
 {
   "body": {
-    "cmd-k": "switch-note:toggle"
+    "cmd-k": "switch-note:open",
+    "ctrl-k": "switch-note:open"
   }
 }

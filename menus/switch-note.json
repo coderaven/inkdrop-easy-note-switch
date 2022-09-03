@@ -3,7 +3,7 @@
     ".CodeMirror": [
       {
         "label": "Toggle switch-note",
-        "command": "switch-note:toggle"
+        "command": "switch-note:open"
       }
     ]
   },
@@ -16,7 +16,7 @@
           "submenu": [
             {
               "label": "Toggle",
-              "command": "switch-note:toggle"
+              "command": "switch-note:open"
             }
           ]
         }

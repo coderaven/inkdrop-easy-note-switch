@@ -16,7 +16,7 @@ Activate the search dialog with either `cmd+k` or `ctrl+k`. The search functiona
  - Multiple, partial, and non-sequential parameters, separated by a space (see screenshot below for an example.)
  - Arrow keys + enter key for moving through the search results and opening the desired note.
 
-![Screenshot](https://i.imgur.com/DOp6XPi.png)
+![Screenshot](screenshot.png)
 
 ### Changelog
 

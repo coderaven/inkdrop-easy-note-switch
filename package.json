@@ -1,0 +1,15 @@
+{
+  "name": "switch-note",
+  "main": "./lib/switch-note",
+  "version": "0.0.0",
+  "description": "Quickly and easily switch note. Revised version of older plugin.",
+  "keywords": [],
+  "repository": "https://github.com/inkdropapp/switch-note",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {
+    "semantic-ui-react": "^2.0.3"
+  }
+}

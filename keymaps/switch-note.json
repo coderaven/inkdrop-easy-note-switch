@@ -1,0 +1,5 @@
+{
+  "body": {
+    "cmd-k": "switch-note:toggle"
+  }
+}
